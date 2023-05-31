@@ -1,61 +1,61 @@
 ,Epoch number,Dataset,Parameter,Result
-0,0,Train dataset,Loss,0.40243575436489604
-1,0,Train dataset,Jaccard Index,0.7456207556702267
-2,0,Test dataset,Loss,0.2543739213755256
-3,0,Test dataset,Jaccard Index,0.8354320181043524
-4,1,Train dataset,Loss,0.2179207599887224
-5,1,Train dataset,Jaccard Index,0.8600625986250762
-6,1,Test dataset,Loss,0.20086946534483055
-7,1,Test dataset,Jaccard Index,0.8646912386542872
-8,2,Train dataset,Loss,0.1579217930959764
-9,2,Train dataset,Jaccard Index,0.8942933934871281
-10,2,Test dataset,Loss,0.15980658601773412
-11,2,Test dataset,Jaccard Index,0.8898102546993055
-12,3,Train dataset,Loss,0.12745683452236317
-13,3,Train dataset,Jaccard Index,0.9134861726627171
-14,3,Test dataset,Loss,0.12886579256308706
-15,3,Test dataset,Jaccard Index,0.9094913915583962
-16,4,Train dataset,Loss,0.10825268826752066
-17,4,Train dataset,Jaccard Index,0.926379075674253
-18,4,Test dataset,Loss,0.12942118119252355
-19,4,Test dataset,Jaccard Index,0.9104074208359969
-20,5,Train dataset,Loss,0.0956784781312274
-21,5,Train dataset,Jaccard Index,0.9350984692573547
-22,5,Test dataset,Loss,0.11130843782111217
-23,5,Test dataset,Jaccard Index,0.9247315180929083
-24,6,Train dataset,Loss,0.08418370856442184
-25,6,Train dataset,Jaccard Index,0.9428523043605769
-26,6,Test dataset,Loss,0.1028125156697474
-27,6,Test dataset,Jaccard Index,0.9297373357572054
-28,7,Train dataset,Loss,0.07217959074355731
-29,7,Train dataset,Jaccard Index,0.9517516231982508
-30,7,Test dataset,Loss,0.10442609065457394
-31,7,Test dataset,Jaccard Index,0.9284045037470365
-32,8,Train dataset,Loss,0.06375428473698759
-33,8,Train dataset,Jaccard Index,0.9574901506165477
-34,8,Test dataset,Loss,0.11036996268912365
-35,8,Test dataset,Jaccard Index,0.9260341807415611
-36,9,Train dataset,Loss,0.06169204142327621
-37,9,Train dataset,Jaccard Index,0.9586317700760387
-38,9,Test dataset,Loss,0.09812804703649722
-39,9,Test dataset,Jaccard Index,0.9327356282033419
-40,10,Train dataset,Loss,0.05281187270150006
-41,10,Train dataset,Jaccard Index,0.9654855845130492
-42,10,Test dataset,Loss,0.09767366945743561
-43,10,Test dataset,Jaccard Index,0.9388035912262765
-44,11,Train dataset,Loss,0.05033448519550751
-45,11,Train dataset,Jaccard Index,0.9669662078964376
-46,11,Test dataset,Loss,0.09168892824336101
-47,11,Test dataset,Jaccard Index,0.9434989471184579
-48,12,Train dataset,Loss,0.045329368107508275
-49,12,Train dataset,Jaccard Index,0.9707424378840723
-50,12,Test dataset,Loss,0.0852657095774224
-51,12,Test dataset,Jaccard Index,0.9476068992363779
-52,13,Train dataset,Loss,0.04439678760332482
-53,13,Train dataset,Jaccard Index,0.9710940022334874
-54,13,Test dataset,Loss,0.12011695535559404
-55,13,Test dataset,Jaccard Index,0.9293657541275024
-56,14,Train dataset,Loss,0.04478046943860076
-57,14,Train dataset,Jaccard Index,0.970722835197627
-58,14,Test dataset,Loss,0.09696052027376074
-59,14,Test dataset,Jaccard Index,0.9412765189221031
+0,0,Train dataset,Loss,0.38823556816466503
+1,0,Train dataset,Jaccard Index,0.7492355211315868
+2,0,Test dataset,Loss,0.2888751727970023
+3,0,Test dataset,Jaccard Index,0.8047989261777777
+4,1,Train dataset,Loss,0.20979713084541748
+5,1,Train dataset,Jaccard Index,0.8644852198172952
+6,1,Test dataset,Loss,0.2035270466616279
+7,1,Test dataset,Jaccard Index,0.8602499020727057
+8,2,Train dataset,Loss,0.14808176875671494
+9,2,Train dataset,Jaccard Index,0.9008425919809074
+10,2,Test dataset,Loss,0.1598086106149774
+11,2,Test dataset,Jaccard Index,0.8881859120569731
+12,3,Train dataset,Loss,0.11810748293021014
+13,3,Train dataset,Jaccard Index,0.9196856506517
+14,3,Test dataset,Loss,0.1660257291636969
+15,3,Test dataset,Jaccard Index,0.8890191504829809
+16,4,Train dataset,Loss,0.09688275697353844
+17,4,Train dataset,Jaccard Index,0.934995649573959
+18,4,Test dataset,Loss,0.1341154959641005
+19,4,Test dataset,Jaccard Index,0.9107170512801722
+20,5,Train dataset,Loss,0.08584955755934537
+21,5,Train dataset,Jaccard Index,0.9424289398104231
+22,5,Test dataset,Loss,0.09511273471932662
+23,5,Test dataset,Jaccard Index,0.9397697511472201
+24,6,Train dataset,Loss,0.07421483214352732
+25,6,Train dataset,Jaccard Index,0.9504250884056091
+26,6,Test dataset,Loss,0.11033728012913152
+27,6,Test dataset,Jaccard Index,0.9314369872996682
+28,7,Train dataset,Loss,0.06579443596512358
+29,7,Train dataset,Jaccard Index,0.9562336629796251
+30,7,Test dataset,Loss,0.13196188819251561
+31,7,Test dataset,Jaccard Index,0.9167718510878714
+32,8,Train dataset,Loss,0.06190512270153126
+33,8,Train dataset,Jaccard Index,0.9589177336648246
+34,8,Test dataset,Loss,0.08939292948496969
+35,8,Test dataset,Jaccard Index,0.9436692532740141
+36,9,Train dataset,Loss,0.054524220665481606
+37,9,Train dataset,Jaccard Index,0.9640889084227732
+38,9,Test dataset,Loss,0.11313053259724065
+39,9,Test dataset,Jaccard Index,0.9316340465294687
+40,10,Train dataset,Loss,0.04950308355842238
+41,10,Train dataset,Jaccard Index,0.9680828663790337
+42,10,Test dataset,Loss,0.07693192303964966
+43,10,Test dataset,Jaccard Index,0.9522472557268644
+44,11,Train dataset,Loss,0.048509378125455895
+45,11,Train dataset,Jaccard Index,0.9686913484724883
+46,11,Test dataset,Loss,0.11530096868151113
+47,11,Test dataset,Jaccard Index,0.9317401773051212
+48,12,Train dataset,Loss,0.04429474408590348
+49,12,Train dataset,Jaccard Index,0.9713924332199809
+50,12,Test dataset,Loss,0.07099611527825657
+51,12,Test dataset,Jaccard Index,0.9566871617969713
+52,13,Train dataset,Loss,0.038201147081138934
+53,13,Train dataset,Jaccard Index,0.9760147773216818
+54,13,Test dataset,Loss,0.08193595687809743
+55,13,Test dataset,Jaccard Index,0.9516962452938682
+56,14,Train dataset,Loss,0.03791537973159385
+57,14,Train dataset,Jaccard Index,0.9760475587622027
+58,14,Test dataset,Loss,0.08202650045093737
+59,14,Test dataset,Jaccard Index,0.953506843039864
